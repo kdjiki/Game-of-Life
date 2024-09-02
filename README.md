@@ -22,3 +22,8 @@ Instructions: In-game instructions are available to help users understand how to
 Step Counter: Tracks the number of steps (generations) since the start.
 Control Panel: Buttons for muting, clearing the grid, viewing instructions, and managing saved setups.
 Setup Management: Load and delete saved grid setups through an intuitive menu.
+Getting Started
+Prerequisites
+Python 3.x
+PyGame library
+tkinter library (comes with Python standard library)
